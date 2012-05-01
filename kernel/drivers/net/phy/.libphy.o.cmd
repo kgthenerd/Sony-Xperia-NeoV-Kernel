@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/libphy.o := /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL    -r -o drivers/net/phy/libphy.o drivers/net/phy/phy.o drivers/net/phy/phy_device.o drivers/net/phy/mdio_bus.o 

@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libra/librasdioif.ko := /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL -r  -T /home/kgthenerd/Code/Android/kernel/4.0.2.D.0.5/kernel/scripts/module-common.lds --build-id -o drivers/net/wireless/libra/librasdioif.ko drivers/net/wireless/libra/librasdioif.o drivers/net/wireless/libra/librasdioif.mod.o

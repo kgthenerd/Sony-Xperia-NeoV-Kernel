@@ -1,0 +1,1 @@
+cmd_drivers/media/video/videodev.o := /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL    -r -o drivers/media/video/videodev.o drivers/media/video/v4l2-dev.o drivers/media/video/v4l2-ioctl.o drivers/media/video/v4l2-device.o 

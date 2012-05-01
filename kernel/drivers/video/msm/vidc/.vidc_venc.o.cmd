@@ -1,0 +1,1 @@
+cmd_drivers/video/msm/vidc/vidc_venc.o := /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL    -r -o drivers/video/msm/vidc/vidc_venc.o drivers/video/msm/vidc/common/enc/venc.o drivers/video/msm/vidc/common/enc/venc_internal.o 

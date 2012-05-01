@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-msm/dma_test.ko := /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL -r  -T /home/kgthenerd/Code/Android/kernel/4.0.2.D.0.5/kernel/scripts/module-common.lds --build-id -o arch/arm/mach-msm/dma_test.ko arch/arm/mach-msm/dma_test.o arch/arm/mach-msm/dma_test.mod.o

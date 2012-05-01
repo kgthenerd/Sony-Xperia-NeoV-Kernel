@@ -1,0 +1,1 @@
+cmd_drivers/video/msm/mddi_nt_panels/built-in.o :=  /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL    -r -o drivers/video/msm/mddi_nt_panels/built-in.o drivers/video/msm/mddi_nt_panels/mddi_nt_sony_acx424akm.o drivers/video/msm/mddi_nt_panels/mddi_nt_hitachi_dx09d09vm.o 

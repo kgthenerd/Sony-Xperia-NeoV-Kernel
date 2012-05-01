@@ -1,0 +1,1 @@
+ARCH=arm CROSS_COMPILE=/home/kgthenerd/Code/Android/android-toolchain-eabi/bin/arm-eabi- make semc_hallon_defconfig

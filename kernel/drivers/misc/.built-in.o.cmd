@@ -1,0 +1,1 @@
+cmd_drivers/misc/built-in.o :=  /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL    -r -o drivers/misc/built-in.o drivers/misc/pmem.o drivers/misc/uid_stat.o drivers/misc/eeprom/built-in.o drivers/misc/cb710/built-in.o drivers/misc/pmic8058-pwm.o drivers/misc/pmic8058-nfc.o drivers/misc/lm356x.o drivers/misc/fpc_connector_test.o 

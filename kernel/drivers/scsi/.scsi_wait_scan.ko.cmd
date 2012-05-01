@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_wait_scan.ko := /home/kgthenerd/Code/Android/arm_eabi/bin/arm-none-eabi-ld -EL -r  -T /home/kgthenerd/Code/Android/kernel/4.0.2.D.0.5/kernel/scripts/module-common.lds --build-id -o drivers/scsi/scsi_wait_scan.ko drivers/scsi/scsi_wait_scan.o drivers/scsi/scsi_wait_scan.mod.o
